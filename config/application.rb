@@ -58,5 +58,6 @@ module AgileTracker
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+    config.secret_token = '7879f942c860ab1a4efe00ebc9cf9fb33dadebc291d0672ffe9867deeca9c7b2c56eed90bc025e4926130271cb326725a6879d108c17ed061977a18eacae8e15'
   end
 end
